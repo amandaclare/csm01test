@@ -2,14 +2,12 @@
 
 import sys
 
-def say_hello(name):
+def sayhello(name):
     return "hello "+name
 
-def say_goodbye(name):
-    return "goodbye "+name
 
 def main():
-    say_hello("world")
+    sayhello("world")
 
 
 main()
