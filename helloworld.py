@@ -7,7 +7,7 @@ def say_hello(name):
 
 
 def main():
-    say_hello("world")
+    print(say_hello("world"))
 
 
 main()
